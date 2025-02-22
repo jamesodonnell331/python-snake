@@ -1,8 +1,9 @@
-## Python Snake
+# Python Snake
+
 This is a video game project aiming to develop a timeless classic game called Snake.
 
 ## Development Process
-This game was developed with assistance from Grok3 AI. While the core implementation was generated with AI, I customised the game mechanics, created the art style of the game, modified the graphics, fixed bugs, provided audio samples for sound effects, provided and generated images, and provided the relevant input to prompt AI to generate the games code.
+This game was developed with assistance from ChatGPT (OpenAI o3-mini), Claude 3.5 Sonnet, DeepSeek (DeepThink (R1)) and Grok 3 AI. While the core implementation was generated with AI, I customised the game mechanics, created the art style of the game, modified the graphics, fixed bugs, provided audio samples for sound effects, provided and generated images, and provided the relevant input to prompt AI to generate the games code.
 
 ## Installation Instructions
 
@@ -20,7 +21,10 @@ This game was developed with assistance from Grok3 AI. While the core implementa
 
 ### Contributors
 - James O'Donnell
-- Grok3 AI
+- ChatGPT (OpenAI o3-mini)
+- Claude 3.5 Sonnet
+- DeepSeek (DeepThink (R1))
+- Grok 3
 
 ### Sound Effects
 - "gameoversnake.mp3" by user Fino59 - Downloaded from myinstants.com (https://www.myinstants.com/en/instant/snake-game-over-16836/)
