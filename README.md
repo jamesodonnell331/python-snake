@@ -1,6 +1,6 @@
 # Python Snake
 
-This is a video game project aiming to develop a timeless classic game called Snake.
+This is a video game project aiming to develop a timeless classic game called "Snake".
 
 ## Development Process
 This game was developed with assistance from ChatGPT (OpenAI o3-mini), Claude 3.5 Sonnet, DeepSeek (DeepThink (R1)) and Grok 3 AI. While the core implementation was generated with AI, I customised the game mechanics, created the art style of the game, modified the graphics, fixed bugs, provided audio samples for sound effects, provided and generated images, and provided the relevant input to prompt AI to generate the games code.
@@ -37,7 +37,7 @@ Make sure these files are in the same directory as the game script:
 Navigate to the game directory and launch it:
 
     bash
-    
+
     python snake_game.py
 
 ## Usage Guide
