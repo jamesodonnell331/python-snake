@@ -83,6 +83,7 @@ def home_screen():
 
 # Main Gameplay
 def play_game():
+    clock.tick(60)
     snake_grid = [(10, 10)]  # Logical grid positions
     previous_snake_grid = [(10, 10)]  # Positions before last move
     direction = "right"
