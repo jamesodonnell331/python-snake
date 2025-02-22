@@ -9,24 +9,29 @@ This game was developed with assistance from ChatGPT (OpenAI o3-mini), Claude 3.
 To run the Snake game, follow these steps:
 
 1. Install Python
-- Ensure you have Python 3.6 or higher installed. Download it from python.org.
+
+Ensure you have Python 3.6 or higher installed. Download it from python.org.
 
 2. Install Pygame
-- Install the Pygame library using pip:
+
+Install the Pygame library using pip:
 
     bash
 
     pip install pygame
 
 3. Download the Game Files
-- Clone this repository or download the ZIP file:
+
+Clone this repository or download the ZIP file:
     
     bash
     
     git clone <repository-url>
 
 4. Required Files
-- Make sure these files are in the same directory as the game script:
+
+Make sure these files are in the same directory as the game script:
+    
     background.png
     snake_segment.png
     food.png
@@ -34,7 +39,8 @@ To run the Snake game, follow these steps:
     gameoversnake.mp3
 
 5. Run the Game
-- Navigate to the game directory and launch it:
+
+Navigate to the game directory and launch it:
 
     bash
 
